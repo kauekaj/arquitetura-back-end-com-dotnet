@@ -1,12 +1,10 @@
-# Configuração da Arquitetura back-end com .NET Core - DIO
-
 <!--Banner session-->
 <p align="center">
   <img src="./assets/banner.png" alt="DIO" title="Digital Innovation One">
 </p>
 
 <!--About session-->
-<h1 align="center">Configurando arquitetura back-end com .NET Core<br>Digital Innovation One</h1>
+<h1 align="center">Configuração da Arquitetura back-end com .NET Core<br>Digital Innovation One</h1>
 
 Curso do Bootcamp Take Blip Fullstack Developer #2 da [Digital Innovation One](https://digitalinnovation.one/).
 
