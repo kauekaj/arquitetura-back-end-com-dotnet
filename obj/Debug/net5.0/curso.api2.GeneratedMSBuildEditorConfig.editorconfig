@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = curso.api2
-build_property.ProjectDir = C:\Users\kauek\source\repos\arquitetura-back-end-com-dotnet\curso.api2\
+build_property.ProjectDir = C:\Users\kauek\source\repos\curso2\curso.api2\
